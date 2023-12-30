@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1967,5): warning : The referenced project 'C:\dev\GLFW\glfw-3.3.9\build\ZERO_CHECK.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1967,5): warning : The referenced project 'C:\dev\GLFW\glfw-3.3.9\build\src\glfw.vcxproj' does not exist.
+  Building Custom Rule C:/dev/GLFW/glfw-3.3.9/tests/CMakeLists.txt
+  CMake is re-running because C:/dev/GLFW/glfw-3.3.9/build/tests/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "C:/dev/GLFW/glfw-3.3.9" does not appear to contain CMakeLists.txt.
+  Specify --help for usage, or press the help button on the CMake GUI.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: Custom build for 'C:\dev\GLFW\glfw-3.3.9\tests\CMakeLists.txt' exited with code 1.
