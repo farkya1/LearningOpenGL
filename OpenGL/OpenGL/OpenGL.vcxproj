@@ -155,10 +155,17 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Users\afar3\Downloads\glad\src\glad.c" />
     <ClCompile Include="Application.cpp" />
+    <ClCompile Include="stb_implementation.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="FragmentShader.glsl" />
+    <None Include="shader.fs" />
+    <None Include="shader.vs" />
     <None Include="VertexShader.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Users\afar3\Downloads\stb_image.h" />
+    <ClInclude Include="Shader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
