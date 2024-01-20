@@ -1,1 +1,1 @@
-Following https://learnopengl.com/ to learn graphics programming
+Following [LearnOpenGL]https://learnopengl.com/ to learn graphics programming
